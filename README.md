@@ -14,7 +14,6 @@
 <p>
 
 [![](https://img.shields.io/badge/Golang-1E90FF?style=flat-square&logo=go&logoColor=white)](#)
-[![](https://img.shields.io/badge/-Java-red?style=flat-square&logo=java&logoColor=white)](#)
-[![](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=Rust&logoColor=White)](#)
+[![](https://img.shields.io/badge/php-1E90FF?style=flat-square&logo=php&logoColor=white)](#)
 [![](https://img.shields.io/badge/Vim-2E8B57?style=flat-square&logo=Vim&logoColor=White)](#)
 [![](https://img.shields.io/badge/IDE-Jetbrains-000000?style=flat-square&logo=jetbrains&logoColor=White)](#)
